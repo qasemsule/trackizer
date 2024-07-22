@@ -30,7 +30,7 @@ class MainActivity : ComponentActivity() {
 fun GreetingView(text: String) {
     Text(text = text)
 }
-
+///working
 @Preview
 @Composable
 fun DefaultPreview() {

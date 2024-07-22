@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.westqasim.trackizer.android.androidApp-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\devqa\\.gradle\\caches\\transforms-3\\89caba9bdd5615da094ebc4000d88662\\transformed\\core-1.10.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

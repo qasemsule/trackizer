@@ -1,5 +1,34 @@
 R_DEF: Internal format may change without notice
 local
+drawable add
+drawable app_icon
+drawable arrow_down
+drawable arrow_medium
+drawable arrow_small
+drawable auto_ransport
+drawable back
+drawable budgets
+drawable calendar
+drawable chart
+drawable credit_cards
+drawable entertainment
+drawable faceid
+drawable font
+drawable hbo_go_logo
+drawable home
+drawable icloud
+drawable light_theme
+drawable logo
+drawable minus
+drawable money
+drawable netflix_logo
+drawable onedrive_logo
+drawable plus
+drawable security
+drawable settings
+drawable sorting
+drawable spotify_logo
+drawable yt_premium_logo
 font inter_18pt_black
 font inter_18pt_blackitalic
 font inter_18pt_bold

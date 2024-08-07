@@ -1,218 +1,334 @@
 [
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_light.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_light.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_bolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_bolditalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_extralight.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_extralight.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_light_theme.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/light_theme.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_bold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_bold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_black.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_black.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_lightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_lightitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_blackitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_blackitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_regular.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_regular.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_settings.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/settings.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_italic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_italic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_money.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/money.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_semibold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_semibold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_extrabolditalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_thin.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_thin.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_app_icon.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/app_icon.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_thinitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_thinitalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_credit_cards.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/credit_cards.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_lightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_lightitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_medium.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_medium.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_black.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_black.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_onedrive_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/onedrive_logo.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_regular.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_regular.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_blackitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_blackitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_mediumitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_mediumitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_extrabold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_extrabold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_blackitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_blackitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_lightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_lightitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_medium.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_medium.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_icloud.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/icloud.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_extralight.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_extralight.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_thin.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_thin.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_extralightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_extralightitalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_spotify_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/spotify_logo.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_medium.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_medium.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_extralightitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_semibolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_semibolditalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_font.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/font.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_extrabolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_extrabolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_light.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_light.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_mediumitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_mediumitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_bold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_bold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_extrabolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_extrabolditalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_hbo_go_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/hbo_go_logo.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_semibolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_semibolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_bold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_bold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_thin.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_thin.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/logo.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_light.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_light.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_semibold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_semibold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_extrabold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_extrabold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_extralight.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_extralight.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_mediumitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_mediumitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_mediumitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_semibold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_semibold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_italic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_italic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_thinitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_thinitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_light.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_light.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_extralight.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_extralight.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_security.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/security.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_bold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_bold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_semibolditalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_lightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_lightitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_medium.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_medium.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_bolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_bolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_black.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_black.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_light.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_light.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_add.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/add.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_bolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_bolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_mediumitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_black.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_black.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_thinitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_thinitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_blackitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_blackitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_extralightitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_medium.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_medium.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_extrabold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_extrabold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_thinitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_thinitalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_plus.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/plus.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_extrabold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_extrabold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_extralight.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_extralight.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_blackitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_blackitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_bolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_bolditalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_extralightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_extralightitalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_yt_premium_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/yt_premium_logo.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_black.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_black.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_semibolditalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_extrabold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_extrabold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_italic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_italic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_bolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_bolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_regular.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_regular.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_italic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_italic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_budgets.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/budgets.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_extrabolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_extrabolditalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_mediumitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_thin.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_thin.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_extralight.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_extralight.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_semibolditalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_semibolditalic.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_back.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/back.png"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_24pt_italic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_24pt_italic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_regular.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_regular.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_extralightitalic.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_extralightitalic.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_blackitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_blackitalic.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_regular.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_regular.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_thin.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_thin.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_18pt_bold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_18pt_bold.ttf"
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_semibold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_semibold.ttf"
     },
     {
-        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/font_inter_28pt_semibold.ttf.flat",
-        "source": "com.westqasim.trackizer.android.androidApp-main-45:/font/inter_28pt_semibold.ttf"
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_home.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/home.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_italic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_lightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_extralightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_thin.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_light.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_light.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_minus.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/minus.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_bold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_bold.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_arrow_down.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_medium.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_medium.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_arrow_medium.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/arrow_medium.png"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_chart.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/chart.png"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_faceid.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/faceid.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_extrabold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_bolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_bolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_regular.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_regular.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_auto_ransport.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/auto_ransport.png"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_netflix_logo.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/netflix_logo.png"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_sorting.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/sorting.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_thinitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_lightitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_lightitalic.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_entertainment.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/entertainment.png"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_arrow_small.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/arrow_small.png"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_24pt_extrabolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_24pt_extrabolditalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_thinitalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_black.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_18pt_semibold.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_18pt_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-debug-43:\\font_inter_28pt_semibolditalic.ttf.flat",
+        "source": "C:\\Users\\devqa\\.gradle\\daemon\\8.7\\com.westqasim.trackizer.android.androidApp-main-45:\\font\\inter_28pt_semibolditalic.ttf"
+    },
+    {
+        "merged": "com.westqasim.trackizer.android.androidApp-debug-43:/drawable_calendar.png.flat",
+        "source": "com.westqasim.trackizer.android.androidApp-main-45:/drawable/calendar.png"
     }
 ]
